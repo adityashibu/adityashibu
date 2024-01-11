@@ -4,8 +4,8 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
 ###
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adwii-iii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-        <img src="https://github-readme-stats.vercel.app/api?username=adwii-iii&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityashibu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=adityashibu&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,4 +49,4 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
   </a>
 </div>
 <h2 align="center">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adwii-iii&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adityashibu&theme=react-dark"/>
