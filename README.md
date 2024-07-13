@@ -28,7 +28,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
-<h1 align="center">How to react out to me</h1>
+<h1 align="center">How to reach out to me</h1>
 <div align="center">
   <a href="https://www.instagram.com/adwii.iii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
