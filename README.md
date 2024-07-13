@@ -21,6 +21,11 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
     <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,django"/>
 </p>
 
+<h3>Databases</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
 <h3>Version Control</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions"/>
