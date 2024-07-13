@@ -10,7 +10,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
-<h1>Languages I know</h1>
+<h1>What I know</h1>
 <h3>Frontend Languages</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,react,js"/>
@@ -28,7 +28,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3>Version Control</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
 </p>
 
 ###
