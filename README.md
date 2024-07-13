@@ -1,35 +1,35 @@
-<h2 align="center">Hi 👋! My name is Aditya S and <br>
+<h2>Hi 👋! My name is Aditya S and <br>
 I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
-<div align="center">
+<div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityashibu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
         <img src="https://github-readme-stats.vercel.app/api?username=adityashibu&show_icons=true&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="center">Languages I know</h1>
-<h3 align="center">Frontend Languages</h3>
-<p align="center">
+<h1>Languages I know</h1>
+<h3>Frontend Languages</h3>
+<p>
     <img src="https://skillicons.dev/icons?i=html,css,react,js"/>
 </p>
 
-<h3 align="center">Backend Languages</h3>
-<p align="center">
+<h3>Backend Languages</h3>
+<p>
     <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,django"/>
 </p>
 
-<h3 align="center">Version Control</h3>
-<p align="center">
+<h3>Version Control</h3>
+<p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions"/>
 </p>
 
 ###
 
-<h1 align="center">How to reach out to me</h1>
-<div align="center">
+<h1>How to reach out to me</h1>
+<div>
   <a href="https://www.instagram.com/adwii.iii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
