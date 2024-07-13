@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Aditya S and <br>
-I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
+I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
@@ -10,12 +10,25 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
+<h1 align="center">Languages I know</h1>
+<h3 align="center">Frontend Languages</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,html,css,react,git,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=html,css,react,js"/>
+</p>
+
+<h3 align="center">Backend Languages</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js"/>
+</p>
+
+<h3 align="center">Version Control</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions"/>
 </p>
 
 ###
 
+<h1 align="center">How to react out to me</h1>
 <div align="center">
   <a href="https://www.instagram.com/adwii.iii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
