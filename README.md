@@ -11,7 +11,7 @@ I'm a Year 2 CS Student with a passion in the fields of AI and ML</h2>
 ###
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,html,css,git,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,html,css,react,git,github,githubactions"/>
 </p>
 
 ###
