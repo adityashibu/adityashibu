@@ -18,7 +18,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3 align="center">Backend Languages</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js"/>
+    <img src="https://skillicons.dev/icons?i=py,java,c,ocaml,js,django"/>
 </p>
 
 <h3 align="center">Version Control</h3>
