@@ -13,7 +13,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 <h1>What I know</h1>
 <h3>Frontend Languages</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,react,js"/>
+    <img src="https://skillicons.dev/icons?i=html,css,react,js,threejs"/>
 </p>
 
 <h3>Backend Languages</h3>
