@@ -26,7 +26,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3>Databases</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 <h3>Deployments</h3>
