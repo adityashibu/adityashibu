@@ -21,7 +21,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3>Backend</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=py,django,java,c,ocaml,js,npm"/>
+    <img src="https://skillicons.dev/icons?i=py,django,java,c,ocaml,js,npm,express"/>
 </p>
 
 <h3>Databases</h3>
@@ -37,6 +37,12 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 <h3>Version Control</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+</p>
+
+<h3>Tech Stacks</h3>
+<p>
+        <h5><b>MERN (MongoDB, ExpressJS, ReactJS, NodeJS)</b></h5>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 </p>
 
 ###
