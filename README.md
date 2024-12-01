@@ -47,6 +47,10 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
+<h1>Certifications Completed</h1>
+
+###
+
 <h1>How to reach out to me</h1>
 <div style="text-decoration:none">
   <a href="https://www.instagram.com/adwii.iii/" target="_blank" style="text-decoration:none;">
