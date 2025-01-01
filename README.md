@@ -49,6 +49,7 @@ I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
 
 <h1>Certifications Completed</h1>
 <img src="./images/github-foundations.png" alt="GitHub Foundations Certification" width="90" />
+<img src="./images/deep-learning-essentials.png" alt="GitHub Foundations Certification" width="80" />
 
 ###
 
