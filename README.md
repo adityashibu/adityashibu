@@ -1,5 +1,5 @@
 <h2>Hi 👋! My name is Aditya S<br>
-I'm a Year 3 CS Student with a passion in the fields of AI and ML</h2>
+I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
 
 ###
 
