@@ -69,3 +69,5 @@ I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
+
+![](https://hit.yhype.me/github/profile?account_id=142483873)
