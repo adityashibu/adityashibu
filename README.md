@@ -48,7 +48,7 @@ I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3>Robotics</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=ros,ubuntu"/>
+    <img src="https://skillicons.dev/icons?i=ros,ubuntu,windows,linux,unreal,pytorch,tensorflow,opencv,raspberrypi"/>
 </p>
 
 ###
