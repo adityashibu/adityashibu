@@ -14,6 +14,7 @@ I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
 ###
 
 <h1>What I know</h1>
+
 <h3>Frontend</h3>
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs"/>
@@ -31,7 +32,7 @@ I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
 
 <h3>Deployments</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=netlify,vercel,cloudflare"/>
+    <img src="https://skillicons.dev/icons?i=githubactions,netlify,vercel,cloudflare"/>
 </p>
 
 <h3>Version Control</h3>
@@ -43,6 +44,11 @@ I'm a Year 4 CS Student with a passion in the fields of AI and ML</h2>
 <p>
         <h5><b>MERN (MongoDB, ExpressJS, ReactJS, NodeJS)</b></h5>
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+</p>
+
+<h3>Robotics</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=ros,ubuntu"/>
 </p>
 
 ###
